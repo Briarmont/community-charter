@@ -39,9 +39,15 @@ Minor cosmetic alterations may be considered case-by-case if they remain grounde
 
 Temporary exceptions to normal presentation standards may be permitted for staff-approved events, scenes, or scenarios.
 
-Briarmont may include adult, teen, and child characters as part of its community, but all characters are still expected to follow the same presentation standards and remain appropriate to the setting.
-
 Staff have final say on whether an avatar, attachment, or overall presentation is appropriate for Briarmont.
+
+### Child and Teen Characters
+
+Briarmont's setting includes families, and child and teen characters are welcome as part of the community. Players operating child or teen avatars are expected to portray them in ways that are age-appropriate and consistent with the setting. All community members, regardless of character age, are held to the same presentation and behavioral standards outlined in this guide and the Community Covenant.
+
+Any sexual, romantic, or abuse-oriented roleplay involving child or teen characters is strictly prohibited under all circumstances. This applies regardless of the claimed age of the players involved and is enforced as a zero-tolerance policy. Violations will result in immediate and permanent removal from the community without warning. This aligns with both Briarmont's values and Linden Lab's Terms of Service.
+
+Players with questions about whether a specific scene or storyline involving a minor character is appropriate are encouraged to check with staff before proceeding.
 
 ---
 
