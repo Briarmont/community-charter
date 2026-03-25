@@ -1,4 +1,4 @@
-# Briarmont Operations Guide
+# Community Standards Guide
 
 This guide covers the practical standards that support day-to-day life in Briarmont. The Community Covenant defines behavior and moderation; the Roleplay Guidelines describe roleplay conventions. This document focuses on how the community actually runs.
 
