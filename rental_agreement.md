@@ -2,13 +2,13 @@
 
 This covenant governs the use of residential and business rentals within Briarmont. It exists to define the obligations of tenants, clarify how rental spaces are managed, and establish the standards that apply to leased properties.
 
-All tenants and occupants remain subject to the Briarmont Community Covenant, Roleplay Guidelines, and Operations Guide, in addition to any applicable Linden Lab policies.
+All tenants and occupants remain subject to the Briarmont Community Covenant, Roleplay Guidelines, and Community Standards, in addition to any applicable Linden Lab policies.
 
 Renting within Briarmont indicates agreement to follow the terms outlined below.
 
 ## 1. Eligibility and Tenant Limits
 
-To rent in Briarmont, your account must meet the community's current access requirements, including the minimum account age described in the Operations Guide.
+To rent in Briarmont, your account must meet the community's current access requirements, including the minimum account age described in the Community Standards.
 
 Renting in Briarmont does not require a defined character. Non-roleplay tenants may still be eligible to rent so long as they comply with Briarmont's broader community standards and operational requirements.
 
@@ -68,7 +68,7 @@ A rental may be considered subject to reclaim when:
 
 - The lease has expired or remains overdue
 - The property appears abandoned or functionally unused for an extended period
-- The tenant has vacated the community or otherwise lost eligibility to remain in Briarmont 
+- The tenant has vacated the community or otherwise lost eligibility to remain in Briarmont
 - The tenant has materially violated Briarmont's governing documents or rental terms
 
 When a rental is reclaimed, items within the space may be returned in the ordinary course of enforcement. Briarmont is not responsible for the loss of returned items, including no-copy objects.
@@ -77,7 +77,7 @@ Reclamation decisions are made at staff discretion in the interest of maintainin
 
 ## 7. Rental Conduct and Operational Compliance
 
-Tenants are expected to use their rental spaces in a way that remains consistent with Briarmont's Community Covenant, Roleplay Guidelines, and Operations Guide.
+Tenants are expected to use their rental spaces in a way that remains consistent with Briarmont's Community Covenant, Roleplay Guidelines, and Community Standards.
 
 Renting a space does not exempt a tenant from broader community standards regarding public-facing presentation, visible content, operational requirements, or staff direction.
 
