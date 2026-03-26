@@ -165,7 +165,7 @@ If a specific parcel, venue, or community-managed space has local rules, you're 
 
 Residential rentals and tenant obligations are covered separately in the Briarmont Rental Covenant and any parcel-specific terms provided at the point of lease.
 
-Local parcel rules work alongside the Community Covenant, Roleplay Guidelines, and this Operations Guide.
+Local parcel rules work alongside the Community Covenant, Roleplay Guidelines, and this Community Standards Guide.
 
 ---
 
