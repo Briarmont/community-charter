@@ -48,7 +48,7 @@ Storylines that involve sensitive themes, including prejudice, abuse, or interpe
 
 Threats, coercion, intimidation, and emotional manipulation directed at other community members are prohibited.
 
-When conflict between characters escalates into conflict between players, Section 7 applies.
+When conflict between characters escalates into conflict between players, Section 6 applies.
 
 ---
 
@@ -82,7 +82,25 @@ Community members are expected to respect reasonable requests for distance, dise
 
 ---
 
-## 6. Staff Authority and Moderation
+## 6. Conflict Resolution
+
+Community members are encouraged to resolve minor misunderstandings through calm and respectful communication when it is safe and appropriate to do so. This may include clarifying intent, discussing boundaries, or mutually agreeing to step away from a scene or interaction. If direct communication is not resolving the situation, community members may use Second Life's block features to end the interaction and create distance.
+
+Community members are **not required** to contact or confront someone who has harmed or harassed them before seeking assistance. Situations involving harassment, coercion, stalking behavior, discrimination, or other serious concerns should be reported to staff directly.
+
+If a situation cannot be resolved informally, or if blocking does not end the unwanted behavior, community members should contact staff for assistance. Staff will review the situation and determine an appropriate response based on the available information.
+
+Reports should be made in good faith and include relevant information whenever possible. For the purposes of this covenant, **good faith** means the reporting community member sincerely believes a rule violation or harmful behavior has occurred, even if the report is ultimately not substantiated.
+
+False, malicious, or retaliatory reports -- such as knowingly fabricating incidents or attempting to weaponize the reporting process against another community member -- are not permitted.
+
+Staff will make reasonable efforts to review reports and respond within an appropriate timeframe, though response times may vary depending on staff availability and the complexity of the situation.
+
+Community members may request that a moderation decision be reviewed if they believe it was made in error or based on incomplete information. Requests for review will be evaluated by staff, and decisions may be reconsidered when appropriate.
+
+---
+
+## 7. Staff Authority and Moderation
 
 Briarmont is a privately operated community. Staff may intervene whenever behavior disrupts the community, harms other community members, or violates this covenant.
 
@@ -93,24 +111,6 @@ Repeated disruptive behavior may be treated as a violation even when individual 
 Continued contact after being told to stop, harassment of community members, ban evasion, impersonation, or the use of alternate accounts to evade moderation may result in immediate escalation, including permanent removal.
 
 Staff decisions are made in the interest of protecting the health, safety, and stability of the community.
-
----
-
-## 7. Conflict Resolution
-
-Community members are encouraged to resolve minor misunderstandings through calm and respectful communication when it is safe and appropriate to do so. This may include clarifying intent, discussing boundaries, or mutually agreeing to step away from a scene or interaction.
-
-Community members are **not required** to contact or confront someone who has harmed or harassed them before seeking assistance. Situations involving harassment, coercion, stalking behavior, discrimination, or other serious concerns should be reported to staff directly.
-
-If a situation cannot be resolved informally, community members may contact staff for assistance. Staff will review the situation and determine an appropriate response based on the available information.
-
-Reports should be made in good faith and include relevant information whenever possible. For the purposes of this covenant, **good faith** means the reporting community member sincerely believes a rule violation or harmful behavior has occurred, even if the report is ultimately not substantiated.
-
-False, malicious, or retaliatory reports—such as knowingly fabricating incidents or attempting to weaponize the reporting process against another community member—are not permitted.
-
-Staff will make reasonable efforts to review reports and respond within an appropriate timeframe, though response times may vary depending on staff availability and the complexity of the situation.
-
-Community members may request that a moderation decision be reviewed if they believe it was made in error or based on incomplete information. Requests for review will be evaluated by staff, and decisions may be reconsidered when appropriate.
 
 ---
 
