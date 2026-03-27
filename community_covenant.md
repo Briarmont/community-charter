@@ -36,15 +36,19 @@ Community members who approach others primarily through private messages to soli
 
 ## 3. Harassment, Discrimination, and Abuse
 
-Community members may not engage in abusive or discriminatory behavior.
+Storytelling involves conflict. Characters in Briarmont may be antagonistic, flawed, prejudiced, petty, or cruel. That is part of telling grounded stories in a setting like this, and the community supports it. Players who engage in in-character conflict should be prepared to accept the in-character consequences that follow.
 
-Hate speech, discriminatory harassment, or degrading treatment based on race, ethnicity, nationality, sex, gender, sexuality, disability, religion, or other protected characteristics is prohibited.
+What the community does not support is using roleplay as cover for targeting another player. The line is between a character who creates conflict within a story and a player who uses their character to harass, demean, or abuse the person on the other side of the screen.
+
+Hate speech, discriminatory harassment, or degrading treatment directed at another community member based on race, ethnicity, nationality, sex, gender, sexuality, disability, religion, or other protected characteristics is prohibited. This applies both in character and out of character when it crosses from storytelling into genuine hostility or targeting.
 
 Roleplay or out-of-character conduct that targets real-world marginalized groups in a harmful, demeaning, or abusive way is not allowed.
 
-Characters may engage in conflict, rivalry, or antagonistic behavior within the story. However, roleplay may not be used as a justification for harassment, hostility, or abuse directed at the person behind the character.
+Storylines that involve sensitive themes, including prejudice, abuse, or interpersonal cruelty, should be approached with the same care expected under Section 2: with consent, awareness of who is present, and a willingness to adjust if the scene is landing poorly. Not every space or moment is appropriate for every story.
 
 Threats, coercion, intimidation, and emotional manipulation directed at other community members are prohibited.
+
+When conflict between characters escalates into conflict between players, Section 7 applies.
 
 ---
 
