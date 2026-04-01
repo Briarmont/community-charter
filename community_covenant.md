@@ -56,7 +56,7 @@ When conflict between characters escalates into conflict between players, Sectio
 
 ## 4. Community Standards
 
-Briarmont is intended to maintain a grounded and welcoming environment suitable for a broad community, including community members who participate in family-oriented roleplay.
+Briarmont is intended to maintain a grounded and welcoming environment suitable for a broad community, including community members who participate in family-oriented roleplay. All player-operated characters must be 18 years of age or older, as outlined in the Community Standards Guide.
 
 Sexual age-play of any kind is strictly prohibited anywhere within the Briarmont community, including any Briarmont spaces, activities, or roleplay conducted under the Briarmont setting.
 

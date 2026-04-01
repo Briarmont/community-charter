@@ -41,13 +41,21 @@ Temporary exceptions to normal presentation standards may be permitted for staff
 
 Staff have final say on whether an avatar, attachment, or overall presentation is appropriate for Briarmont.
 
-### Child and Teen Characters
+### Character Age Requirement
 
-Briarmont's setting includes families, and child and teen characters are welcome as part of the community. Players operating child or teen avatars are expected to portray them in ways that are age-appropriate and consistent with the setting. All community members, regardless of character age, are held to the same presentation and behavioral standards outlined in this guide and the Community Covenant.
+All player-operated characters in Briarmont must be 18 years of age or older.
 
-Any sexual, romantic, or abuse-oriented roleplay involving child or teen characters is strictly prohibited under all circumstances. This applies regardless of the claimed age of the players involved and is enforced as a zero-tolerance policy. Violations will result in immediate and permanent removal from the community without warning. This aligns with both Briarmont's values and Linden Lab's Terms of Service.
+Family-oriented storytelling is welcome and encouraged. Pregnancy storylines, prim babies, zooby children, and other non-player-operated representations of children are permitted and supported. The restriction applies specifically to player-operated avatars portraying characters under 18.
 
-Players with questions about whether a specific scene or storyline involving a minor character is appropriate are encouraged to check with staff before proceeding.
+This is a practical community decision made to support clear, consistent moderation standards for a Moderate-rated setting. It is not a judgment on child or teen avatar communities in Second Life.
+
+Any sexual, romantic, or abuse-oriented roleplay involving minors ***in any form, including references, implications, or backstory*** is strictly prohibited under all circumstances. This is enforced as a zero-tolerance policy and aligns with both Briarmont's values and Linden Lab's Terms of Service. Violations will result in immediate and permanent removal from the community without warning.
+
+### Linden Lab Enforcement
+
+Briarmont upholds enforcement actions issued by Linden Lab. Community members found to be operating accounts in violation of a Linden Lab suspension or termination ***regardless of which account is being used*** are not eligible to participate in Briarmont.
+
+Players with questions about whether a specific character concept or storyline is appropriate are encouraged to check with staff before proceeding.
 
 ---
 
