@@ -9,7 +9,7 @@ This guide covers the practical standards that support day-to-day life in Briarm
 ### Scope
 Briarmont is a community shaped by many kinds of people, stories, and lived experiences. Some narratives are warm, joyful, and restorative. Others are dark, difficult, cathartic, or unsettling. Both have a place here.
 
-This covenant exists to establish the shared expectations that allow those narratives to coexist. It is not intended to flatten storytelling into one acceptable tone, but to create a framework where a broad range of roleplay can thrive while preserving emotional safety, operational clarity, and compliance with Linden Lab’s Terms of Service. These standards are meant to protect the community as a whole, and the space needed for many different kinds of stories to be told within it. 
+This covenant exists to establish the shared expectations that allow those narratives to coexist. It is not intended to flatten storytelling into one acceptable tone, but to create a framework where a broad range of roleplay can thrive while preserving emotional safety, operational clarity, and compliance with Linden Lab's Terms of Service. These standards are meant to protect the community as a whole, and the space needed for many different kinds of stories to be told within it.
 
 Some expectations are practical rather than behavioral. This guide lays those out clearly.
 
@@ -53,9 +53,9 @@ Family-oriented storytelling is welcome and encouraged. Pregnancy storylines, pr
 
 Linden Lab maintains a zero-tolerance policy regarding the sexualization or exploitation of minors and minor-coded content. Briarmont upholds this standard and likewise enforces a zero-tolerance policy on any content that depicts, promotes, references, implies, romanticizes, or otherwise involves the sexualization, exploitation, or abuse of minors or minor-coded representations in any form, including references, implications, or backstory.
 
-This prohibition applies to all forms of content, including but not limited to avatars, prim babies, Zooby children, scripted or non-scripted objects, textures, gestures, sounds, written or emoted depictions, and any other materials or conduct that fall within the scope of Linden Lab’s Ageplay policy. Violations will result in immediate and permanent removal from the community without warning.
+This prohibition applies to all forms of content, including but not limited to avatars, prim babies, Zooby children, scripted or non-scripted objects, textures, gestures, sounds, written or emoted depictions, and any other materials or conduct that fall within the scope of Linden Lab's Ageplay policy. Violations will result in immediate and permanent removal from the community without warning.
 
-For more information, refer to Linden Lab’s official clarification on Ageplay: [Linden Lab's official clarification on Ageplay](https://wiki.secondlife.com/wiki/Linden_Lab_Official:Clarification_of_policy_disallowing_ageplay)
+For more information, refer to Linden Lab's official clarification on Ageplay: [Linden Lab's official clarification on Ageplay](https://wiki.secondlife.com/wiki/Linden_Lab_Official:Clarification_of_policy_disallowing_ageplay)
 
 ### Linden Lab Enforcement
 
@@ -85,11 +85,17 @@ For moderation and roleplay standards, Briarmont distinguishes between public-fa
 
 A space is public-facing if it is openly accessible, commonly shared, part of a public roleplay area, or likely to be encountered by others during normal use. This should be judged by ordinary access and ordinary visibility, not by deliberate camming, viewer overrides, or intentional voyeurism.
 
+### Public-Facing and Private Spaces
+
+For moderation and roleplay standards, Briarmont distinguishes between public-facing spaces and private spaces. Some private spaces may also be shared by multiple residents or authorized users.
+
+A space is public-facing if it is openly accessible, commonly shared, part of a public roleplay area, or likely to be encountered by others during normal use. This should be judged by ordinary access and ordinary visibility, not by deliberate camming, viewer overrides, or intentional voyeurism.
+
 A space is private when it is not openly accessible to the general community and is not part of ordinary public roleplay flow. Private spaces include private property, rental units, and access-restricted shared spaces such as student dormitories, club or Greek houses, or other resident-controlled interiors.
 
-Private property is not treated the same as a public-facing space. However, all private spaces remain subject to Briarmont’s zero-tolerance policies and any sitewide content restrictions.
+Private property is not treated the same as a public-facing space. However, all private spaces remain subject to Briarmont's zero-tolerance policies and any sitewide content restrictions.
 
-In public-facing spaces, mature themes and realistic adult storytelling may occur, including crime, intoxication, conflict, police response, romantic tension, and non-graphic depictions of vice. Explicit sexual conduct, overtly erotic public performance, and similarly graphic or exploitative content are not allowed in public-facing or openly accessible spaces, including in Adult-rated regions.
+In public-facing spaces, mature themes and realistic adult storytelling may occur, including crime, intoxication, conflict, police response, romantic tension, and non-graphic depictions of vice. Explicit sexual conduct, overtly erotic public performance, and similarly graphic or exploitative content are not allowed in public-facing or openly accessible spaces.
 
 Explicit sexual content and other highly graphic adult scenes must remain contained within private or access-restricted spaces and may not form part of ordinary public roleplay flow.
 
@@ -97,11 +103,11 @@ When in doubt, if a scene would normally be encountered by others, treat it as p
 
 ### Use of Public and Private Spaces
 
-Public spaces are part of Briarmont’s shared atmosphere. Use them in ways that support immersion and fit the setting.
+Public spaces are part of Briarmont's shared atmosphere. Use them in ways that support immersion and fit the setting.
 
-Scenes, props, and temporary setups in shared areas should add to the environment, not work against it. Rezzed items in any space, whether used by renters or non-renters, should remain consistent with Briarmont’s aesthetic and grounded community setting.
+Scenes, props, and temporary setups in shared areas should add to the environment, not work against it. Rezzed items in any space, whether used by renters or non-renters, should remain consistent with Briarmont's aesthetic and grounded community setting.
 
-Respect private spaces. Do not enter, use, or disrupt someone else’s home or personal area without permission. Permission may be implied through active roleplay when clearly indicated.
+Respect private spaces. Do not enter, use, or disrupt someone else's home or personal area without permission. Permission may be implied through active roleplay when clearly indicated.
 
 Even in private or residential spaces, anything that visibly or functionally spills into the broader community environment may still be reviewed by Briarmont staff if it disrupts immersion, setting consistency, or community standards.
 
@@ -204,4 +210,3 @@ Briarmont staff may interpret and apply this guide as needed to keep the setting
 Where something isn't explicitly covered here, Briarmont staff may issue direction as needed, and community members are expected to follow it.
 
 Briarmont provides designated ways to reach staff. Including in-world contact points, website forms, and official channels. Use those when you need help, clarification, or review of an operational issue.
-
