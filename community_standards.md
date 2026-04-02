@@ -6,7 +6,12 @@ This guide covers the practical standards that support day-to-day life in Briarm
 
 ## 1. Purpose of This Guide
 
-Briarmont is a grounded town setting with a strong emphasis on shared atmosphere, consistency, and accessible roleplay. Some expectations are practical rather than behavioral. This guide lays those out clearly.
+### Scope
+Briarmont is a community shaped by many kinds of people, stories, and lived experiences. Some narratives are warm, joyful, and restorative. Others are dark, difficult, cathartic, or unsettling. Both have a place here.
+
+This covenant exists to establish the shared expectations that allow those narratives to coexist. It is not intended to flatten storytelling into one acceptable tone, but to create a framework where a broad range of roleplay can thrive while preserving emotional safety, operational clarity, and compliance with Linden Lab's Terms of Service. These standards are meant to protect the community as a whole, and the space needed for many different kinds of stories to be told within it.
+
+Some expectations are practical rather than behavioral. This guide lays those out clearly.
 
 ### How We Approach Operations
 A few principles guide how Briarmont handles things on the practical side:
@@ -37,17 +42,27 @@ Examples of presentation that won't work here include:
 
 Minor cosmetic alterations may be considered case-by-case if they remain grounded, restrained, and clearly integrated into the character as a human-presenting individual within the setting.
 
-Temporary exceptions to normal presentation standards may be permitted for staff-approved events, scenes, or scenarios.
+Temporary exceptions to normal presentation standards may be permitted for Briarmont staff-approved events, scenes, or scenarios.
 
-Staff have final say on whether an avatar, attachment, or overall presentation is appropriate for Briarmont.
+Briarmont staff have final say on whether an avatar, attachment, or overall presentation is appropriate for Briarmont.
 
-### Child and Teen Characters
+### Character Age Requirement
 
-Briarmont's setting includes families, and child and teen characters are welcome as part of the community. Players operating child or teen avatars are expected to portray them in ways that are age-appropriate and consistent with the setting. All community members, regardless of character age, are held to the same presentation and behavioral standards outlined in this guide and the Community Covenant.
+All player-operated characters in Briarmont must be 18 years of age or older.
 
-Any sexual, romantic, or abuse-oriented roleplay involving child or teen characters is strictly prohibited under all circumstances. This applies regardless of the claimed age of the players involved and is enforced as a zero-tolerance policy. Violations will result in immediate and permanent removal from the community without warning. This aligns with both Briarmont's values and Linden Lab's Terms of Service.
+Family-oriented storytelling is welcome and encouraged. Pregnancy storylines, prim babies, Zooby children, and other non-player-operated or non-avatar representations of children are permitted and supported in benign, non-exploitative contexts. This restriction applies specifically to player-operated avatars portraying characters under 18.
 
-Players with questions about whether a specific scene or storyline involving a minor character is appropriate are encouraged to check with staff before proceeding.
+Linden Lab maintains a zero-tolerance policy regarding the sexualization or exploitation of minors and minor-coded content. Briarmont upholds this standard and likewise enforces a zero-tolerance policy on any content that depicts, promotes, references, implies, romanticizes, or otherwise involves the sexualization, exploitation, or abuse of minors or minor-coded representations in any form, including references, implications, or backstory.
+
+This prohibition applies to all forms of content, including but not limited to avatars, prim babies, Zooby children, scripted or non-scripted objects, textures, gestures, sounds, written or emoted depictions, and any other materials or conduct that fall within the scope of Linden Lab's Ageplay policy. Violations will result in immediate and permanent removal from the community without warning.
+
+For more information, refer to Linden Lab's official clarification on Ageplay: [Linden Lab's official clarification on Ageplay](https://wiki.secondlife.com/wiki/Linden_Lab_Official:Clarification_of_policy_disallowing_ageplay)
+
+### Linden Lab Enforcement
+
+Briarmont upholds enforcement actions issued by Linden Lab. Community members found to be operating accounts in violation of a Linden Lab suspension or termination ***regardless of which account is being used*** are not eligible to participate in Briarmont.
+
+Players with questions about whether a specific character concept or storyline is appropriate are encouraged to check with Briarmont staff before proceeding.
 
 ---
 
@@ -55,17 +70,31 @@ Players with questions about whether a specific scene or storyline involving a m
 
 All shared and public-facing spaces in Briarmont operate under a Moderate-compatible community standard.
 
-Public-facing scenes, props, animations, and visual presentation should remain consistent with Briarmont's Community Covenant and appropriate for a broader community environment.
+### Public-Facing and Private Spaces
 
-A space is public-facing if it's openly accessible, commonly shared, visible to others, part of a public roleplay area, or somewhere the broader community could reasonably walk into.
+For moderation and roleplay standards, Briarmont distinguishes between public-facing spaces and private spaces. Some private spaces may also be shared by multiple residents or authorized users.
 
-A space may be treated as restricted-access when entry is actively limited: through architecture, parcel controls, community tooling, staff policy, or other real restrictions that prevent people from simply walking in.
+A space is public-facing if it is openly accessible, commonly shared, part of a public roleplay area, or likely to be encountered by others during normal use. This should be judged by ordinary access and ordinary visibility, not by deliberate camming, viewer overrides, or intentional voyeurism.
 
-Closed doors alone don't make a scene private. Visibility, accessibility, and access control all matter.
+A space is private when it is not openly accessible to the general community and is not part of ordinary public roleplay flow. Private spaces include private property, rental units, and access-restricted shared spaces such as student dormitories, club or Greek houses, or other resident-controlled interiors.
 
-If a scene can reasonably be seen, heard, entered, or stumbled into by others, treat it as public. If a venue is meant to be age-restricted, character-restricted, or otherwise limited, those limits need to be enforced in practice. Not just implied.
+Private property is not treated the same as a public-facing space. However, all private spaces remain subject to Briarmont's zero-tolerance policies and any sitewide content restrictions.
 
-When in doubt, default to the more public interpretation or ask staff.
+In public-facing spaces, mature themes and realistic adult storytelling may occur, including crime, intoxication, conflict, police response, romantic tension, and non-graphic depictions of vice. Explicit sexual conduct, overtly erotic public performance, and similarly graphic or exploitative content are not allowed in public-facing or openly accessible spaces.
+
+Explicit sexual content and other highly graphic adult scenes must remain contained within private or access-restricted spaces and may not form part of ordinary public roleplay flow.
+
+When in doubt, if a scene would normally be encountered by others, treat it as public-facing.
+
+### Use of Public and Private Spaces
+
+Public spaces are part of Briarmont's shared atmosphere. Use them in ways that support immersion and fit the setting.
+
+Scenes, props, and temporary setups in shared areas should add to the environment, not work against it. Rezzed items in any space, whether used by renters or non-renters, should remain consistent with Briarmont's aesthetic and grounded community setting.
+
+Respect private spaces. Do not enter, use, or disrupt someone else's home or personal area without permission. Permission may be implied through active roleplay when clearly indicated.
+
+Even in private or residential spaces, anything that visibly or functionally spills into the broader community environment may still be reviewed by Briarmont staff if it disrupts immersion, setting consistency, or community standards.
 
 ---
 
@@ -73,7 +102,7 @@ When in doubt, default to the more public interpretation or ask staff.
 
 Roleplaying in Briarmont requires a defined character.
 
-To participate in roleplay, community members need to complete the onboarding process and any character registration procedures established by staff.
+To participate in roleplay, community members need to complete the onboarding process and any character registration procedures established by Briarmont staff.
 
 Accounts must be at least 30 days old to enter or participate in Briarmont in any capacity.
 
@@ -103,7 +132,7 @@ Briarmont may also require additional approved tools where needed to support:
 
 - character registration or verification
 - access control and age-based restrictions
-- event support or staff operations
+- event support or Briarmont staff operations
 - roleplay functionality tied to the Briarmont Experience
 
 These tools aren't optional for roleplay. Not using them may limit where you can go or what you can participate in.
@@ -114,7 +143,7 @@ The main exception is within a renter's own private residential space. A non-rol
 
 ## 6. Vehicles, Props, and Rez Expectations
 
-You can rez items, vehicles, props, and temporary objects that your character would reasonably have access to when they're part of an active scene or practical in-character activity. What you rez should fit a contemporary Northern California coastal town, especially given the situation any given item is rezzed, unless a staff-approved exception applies.
+You can rez items, vehicles, props, and temporary objects that your character would reasonably have access to when they're part of an active scene or practical in-character activity. What you rez should fit a contemporary Northern California coastal town, especially given the situation any given item is rezzed, unless a Briarmont staff-approved exception applies.
 
 Keep it clean, keep it grounded, and don't tank performance. Violations will result in disciplinary action being taken.
 
@@ -123,25 +152,13 @@ Keep it clean, keep it grounded, and don't tank performance. Violations will res
 - Don't leave vehicles, furniture, or scene setups abandoned in public areas after roleplay is concluded without explicit permission of Briarmont Staff.
 - Don't use props in ways that block access, break immersion, or cause performance issues.
 
-Cleaning up after yourself is a responsibility, not optional. Staff may return, remove, or restrict objects that are abandoned, disruptive, inappropriate to the setting, or hurting sim performance. Briarmont is not responsible for the loss of rezzed items, including no-copy objects, that are returned or removed during enforcement.
+Cleaning up after yourself is a responsibility, not optional. Briarmont staff may return, remove, or restrict objects that are abandoned, disruptive, inappropriate to the setting, or hurting sim performance. Briarmont is not responsible for the loss of rezzed items, including no-copy objects, that are returned or removed during enforcement.
 
-Staff have final discretion on whether rezzed items are appropriate and safe for the community.
-
----
-
-## 7. Use of Public and Private Spaces
-
-Public spaces are part of Briarmont's shared atmosphere. Use them in ways that respect immersion and fit the setting.
-
-Scenes, props, and temporary setups in shared areas should add to the environment, not work against it. Rezzed items in any space (whether used by renters or non-renters) should fit Briarmont's aesthetic and grounded community setting.
-
-Respect private spaces. Don't enter, use, or disrupt someone's home or personal area without permission. Permission may be implied through roleplay activity as long as it is indicated clearly.
-
-Even in private or residential spaces, anything that visibly spills into the broader community environment may still be reviewed by staff if it disrupts immersion, setting consistency, or community standards.
+Briarmont Staff have final discretion on whether rezzed items are appropriate and safe for the community.
 
 ---
 
-## 8. Groups, Tags, and Official Channels
+## 7. Groups, Tags, and Official Channels
 
 Briarmont maintains official groups, tags, channels, and communication spaces for operations, moderation, and community purposes.
 
@@ -157,7 +174,7 @@ Additional rules around official groups, faction and group approval, or communic
 
 ---
 
-## 9. Parcels and Local Rules
+## 8. Parcels and Local Rules
 
 Some areas of Briarmont may have additional expectations depending on how they're used.
 
@@ -169,13 +186,12 @@ Local parcel rules work alongside the Community Covenant, Roleplay Guidelines, a
 
 ---
 
-## 10. Staff Discretion and Operational Contact
+## 9. Staff Discretion and Operational Contact
 
 Not every situation can be anticipated in advance.
 
-Staff may interpret and apply this guide as needed to keep the setting consistent, support performance, protect the community experience, and provide direction when situations come up. This can include clarifications, temporary restrictions, cleanup instructions, access decisions, or other guidance needed to keep things running.
+Briarmont staff may interpret and apply this guide as needed to keep the setting consistent, support performance, protect the community experience, and provide direction when situations come up. This can include clarifications, temporary restrictions, cleanup instructions, access decisions, or other guidance needed to keep things running.
 
-Where something isn't explicitly covered here, staff may issue direction as needed, and community members are expected to follow it.
+Where something isn't explicitly covered here, Briarmont staff may issue direction as needed, and community members are expected to follow it.
 
 Briarmont provides designated ways to reach staff. Including in-world contact points, website forms, and official channels. Use those when you need help, clarification, or review of an operational issue.
-
