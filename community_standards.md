@@ -47,7 +47,6 @@ Temporary exceptions to normal presentation standards may be permitted for Briar
 Briarmont staff have final say on whether an avatar, attachment, or overall presentation is appropriate for Briarmont.
 
 ### Character Age Requirement
-
 All player-operated characters in Briarmont must be 18 years of age or older.
 
 Family-oriented storytelling is welcome and encouraged. Pregnancy storylines, prim babies, Zooby children, and other non-player-operated or non-avatar representations of children are permitted and supported in benign, non-exploitative contexts. This restriction applies specifically to player-operated avatars portraying characters under 18.
@@ -68,7 +67,23 @@ Players with questions about whether a specific character concept or storyline i
 
 ## 3. Region Ratings and Public vs Private Standards
 
-All shared and public-facing spaces in Briarmont operate under a Moderate-compatible community standard.
+This section defines Briarmont’s region ratings, public-facing and private spaces, and the standards that apply to each.
+
+### Region Ratings
+
+Briarmont includes both Moderate- and Adult-rated regions. All shared and public-facing spaces follow a Moderate-compatible community standard, including in Adult-rated regions, as detailed below.
+
+Adult-rated regions are intended for mature storytelling. Access to Adult-rated regions is restricted to roleplay characters registered through the Briarmont HUD. Roleplay registration and required access tools are defined in Section 4, Character Creation and Onboarding, and Section 5, Community HUD and Required Tools.
+
+Minor-coded or child-presenting avatars are strictly prohibited in all Adult-rated regions, adult venues, and any related access-restricted spaces. No exceptions apply.
+
+This is a zero-tolerance compliance rule under Linden Lab policy. Any presence of a minor-coded or child-presenting avatar in a prohibited space, including claimed accidental entry, mistaken access, or attempted circumvention, may result in immediate enforcement action without warning.
+
+### Public-Facing and Private Spaces
+
+For moderation and roleplay standards, Briarmont distinguishes between public-facing spaces and private spaces. Some private spaces may also be shared by multiple residents or authorized users.
+
+A space is public-facing if it is openly accessible, commonly shared, part of a public roleplay area, or likely to be encountered by others during normal use. This should be judged by ordinary access and ordinary visibility, not by deliberate camming, viewer overrides, or intentional voyeurism.
 
 ### Public-Facing and Private Spaces
 
