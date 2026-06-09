@@ -17,13 +17,13 @@ The following are the event types referenced throughout these guidelines. The li
 - **Private and Group-Restricted Events** (resident-hosted or access-limited gatherings)
 - **Pop-Up Events** (spontaneous, individually arranged gatherings)
 
-Apart from Community Events, which sit above everything, these types are treated as peers. The Event Priority section below explains how that works. Any of them can be in-character or out-of-character; that's a flag on the event, not a separate type.
+Apart from Community Events, which sit above everything, the rest are handled even-handedly, with the Event Priority section below setting out the order Briarmont uses when events conflict. Any of them can be in-character or out-of-character; that's a flag on the event, not a separate type.
 
 ### Community Events
 
 Community Events are the large, Sim-organized events that bring Briarmont together: seasonal celebrations, charity drives, awareness campaigns, and similar efforts. What sets them apart from a single group's event is scale and coordination. They are organized at the community level, often in partnership with outside affiliations, and frequently built around fixed external dates.
 
-For that reason, Community Events hold the highest priority of all event types. When the community rallies behind one of these, everything else is secondary. No other event type may displace, override, or take scheduling precedence over a Community Event, and all community members, groups, and businesses are expected to support and accommodate them, including rescheduling or adjusting their own activities if a conflict arises.
+For that reason, Community Events hold the highest priority of all event types. When the community rallies behind one of these, everything else is secondary, and community members, groups, and businesses are all expected to support and accommodate it, rescheduling or adjusting their own activities if a conflict arises.
 
 A charity event or seasonal gathering run by a single group on its own initiative is a Group Event rather than a Community Event, unless Briarmont staff are coordinating it at the community level.
 
@@ -33,7 +33,26 @@ A charity event or seasonal gathering run by a single group on its own initiativ
 
 Scheduling runs through the Briarmont Discord, which syncs to the Briarmont Google Calendar and the Briarmont website. Recurring events may need to be toggled on the calendar to repeat.
 
-Events may be scheduled by any community member with the Event Coordinator role, or by Briarmont staff. Reach out to the most appropriate person for your event, such as your group's organizer or an Event Coordinator.
+### Event Planners
+
+Event planning in Briarmont is done by Event Planners. Any group on Briarmont's group list may elect up to two Event Planners to represent it in events. That applies to every kind of group, whether a civic organization, a club, a college group, or a business, including rental businesses. How a rental business becomes recognized in its own right is handled through a separate process; what matters here is that a recognized business plans events on the same footing as any other group.
+
+Event Planners propose their group's events, coordinate scheduling with one another, and acknowledge each other's events to keep the calendar clear of conflicts. Briarmont staff can also plan and coordinate events directly.
+
+### What Goes Through Planning
+
+Not every gathering needs the full thread-and-acknowledgment process, and not everything belongs on the community calendar. The test rests on two things: the location and the stream.
+
+An event goes through planning and onto Events, the community calendar, if either is true:
+
+- It uses a public or shared Briarmont location.
+- It uses the region media stream or a DJ.
+
+These are the events that compete for shared space and the stream, so they need a thread, peer acknowledgment, and a place on the calendar. Turnout doesn't decide this. A members-only event in a public Briarmont space still goes through planning, while a packed gathering in a group's own space does not.
+
+An event stays internal, tracked on the group's own calendar, when it's held somewhere the group controls, whether its own parcel in Briarmont or a region outside the community, and it runs without the shared stream. Meetings, classes, rehearsals, and closed gatherings usually fall here, and they need no thread or acknowledgment. Groups are free to hold closed events off-community this way; those gatherings draw on none of Briarmont's shared resources, so Briarmont's own events keep priority and the off-community event reserves nothing here.
+
+A group is welcome to list an internal event on the community calendar for visibility, but listed that way it's informational only. It doesn't reserve the slot, and anything that goes through planning takes priority over it.
 
 ### Starting a Thread
 
@@ -60,8 +79,8 @@ As the event takes shape in the thread, the following should come together befor
 3. **Location**
 4. **Details of the event**
 5. **Whether the region media stream is required** (DJs, music streams, and similar)
-   - If the stream is required, the thread needs a screenshot of the Stream Time Block approval from the Stream Governance Group, covering the full duration of the event.
-   - Any event featuring a DJ must use a DJ certified by the Stream Governance Group. See the DJs and Media Streams section below for how certification works.
+   - If a DJ is playing, the thread needs a screenshot of an open Stream Time Block request covering the full duration of the event. This is the pending request, not an approval. The request is approved and locked only once the event itself clears.
+   - The DJ named in the request must already be certified by the Stream Governance Group, so the request only ever waits on the event's schedule, never on vetting. See the DJs and Media Streams section below for how certification works.
 6. **Expected attendance scope**, whether the event is group-specific, open to community groups, or open to the public
 7. **A 16:9 image** for the Discord event announcement (required)
 8. **A 2:3 image** for in-world advertising (optional, but strongly preferred)
@@ -80,8 +99,8 @@ PROPOSED EVENT (enough to start the thread)
 
 TO CONFIRM BEFORE SCHEDULING (fill in through discussion)
 **Media Stream Required:** Yes / No
-- DJ Name:
-- Stream Time Block Approval Screenshot: (attach image)
+- DJ Name (must be certified):
+- Stream Time Block Request Screenshot (submitted, pending approval): (attach image)
 
 **Attendance Scope:** Group-Specific / Community Groups / Open to Public
 - If Group-Specific, which group(s):
@@ -94,9 +113,9 @@ TO CONFIRM BEFORE SCHEDULING (fill in through discussion)
 
 A thread becomes a scheduled event through its peers, not through a staff sign-off. Here's how it moves:
 
-1. **Discussion.** Other Event Coordinators look over the proposed time and location and raise anything that conflicts with what they're planning. Most of the time this is quick. If there is a clash, the planners work it out together in the thread.
-2. **Acknowledgment.** An event is ready for the calendar once at least two other Event Coordinators have acknowledged it, confirming the time and place don't conflict with anything on their end. A reaction or a short note in the thread is enough. And if no one raises a conflict within 48 hours of the proposal, it can be scheduled regardless, so a quiet thread never holds an event up.
-3. **Scheduling.** With the details filled in and the acknowledgments (or the no-conflict window) met, the event is published to Events, the on-the-books calendar, which syncs to the Google Calendar and the Briarmont website. The link is posted back in the planning thread.
+1. **Discussion.** Other Event Planners look over the proposed time and location and raise anything that conflicts with what they're planning. Most of the time this is quick. If there is a clash, the planners work it out together in the thread.
+2. **Acknowledgment.** An event is ready for the calendar once at least two other Event Planners have acknowledged it, confirming the time and place don't conflict with anything on their end. A reaction or a short note in the thread is enough. And if no one raises a conflict within 48 hours of the proposal, it can be scheduled regardless, so a quiet thread never holds an event up.
+3. **Scheduling.** With the details filled in and the acknowledgments (or the no-conflict window) met, the event is published to Events, the on-the-books calendar, which syncs to the Google Calendar and the Briarmont website. The link is posted back in the planning thread. If the event uses a DJ, clearing it is what green-lights the pending Stream Time Block request, which the Stream Governance Group then approves and locks for the slot.
 
 Briarmont staff only step in when a conflict can't be settled between planners. An acknowledgment is a peer confirming your event works, not an authority granting permission.
 
@@ -113,11 +132,7 @@ The order Briarmont uses to resolve conflicts:
 1. **Community Events.** Highest priority. All other events yield, reschedule, or adjust to avoid conflicting with them.
 2. **All other scheduled events**, including Oakridge College, group and organization, business and venue, and private and group-restricted events, whether IC or OOC. These are peers. When two of them want the same time and place, the event scheduled first holds the slot, and organizers are expected to coordinate in good faith through the planning thread. Briarmont staff will mediate if needed.
 3. **Pop-Up events.**
-4. **Group and organization meetings**, which may be listed for visibility but are informational only and do not reserve a slot. Any scheduled event takes priority over an informational meeting.
-
-When a Community Event is on the calendar, all other activities defer to it. Classes, group events, club nights, and everything else reschedule or adjust as needed. If a conflict arises between a Community Event and anything else, the Community Event takes priority without exception. Because these events often depend on outside coordination, Briarmont staff may post them to the calendar well in advance to give everyone room to plan around them.
-
-Groups are encouraged to track their own internal-only activities separately rather than relying on informational calendar entries to hold a time.
+4. **Informational listings.** Internal events posted only for visibility, as described under What Goes Through Planning. They reserve nothing and yield to any scheduled event.
 
 ---
 
@@ -131,7 +146,7 @@ Groups are encouraged to track their own internal-only activities separately rat
 
 1. Events may be posted to the calendar no more than one month in advance. Community Events may be posted earlier with Briarmont staff approval.
 2. Any group may schedule up to 3 Prime Time events per month, with unlimited Non-Prime Time events. Community Events are exempt from this limit.
-3. Recurring events, such as standing meetings, may be scheduled as ongoing, with the understanding that staff may ask for them to be moved if a higher-priority event needs the slot.
+3. Recurring events, such as a weekly market or a regular event in a shared space, may be scheduled as ongoing, with the understanding that staff may ask for them to be moved if a higher-priority event needs the slot.
 4. If nothing follows an event on the calendar, the host may carry it on at their discretion. If a class, meeting, or other event is scheduled immediately after, the event must wrap up at its end time. As a courtesy, the host should let guests know what is coming up next in that space.
 
 ---
@@ -140,11 +155,11 @@ Groups are encouraged to track their own internal-only activities separately rat
 
 ### Pop-Up Events
 
-Pop-Up events are usually arranged on short notice by community members who aren't running events regularly. Anyone wanting to hold a Pop-Up should still ask an Event Coordinator or Briarmont staff to open a thread in the event-planning channel, so the event is documented and its basics, such as timing, location, and stream use, are on record. Because Pop-Ups are short-notice, the Event Coordinator or staff member who opens the thread clears it on the spot rather than waiting on the usual acknowledgment window.
+Pop-Up events are usually arranged on short notice by community members who aren't running events regularly. Anyone wanting to hold a Pop-Up should still ask an Event Planner or Briarmont staff to open a thread in the event-planning channel, so the event is documented and its basics, such as timing, location, and stream use, are on record. Because Pop-Ups are short-notice, the Event Planner or staff member who opens the thread clears it on the spot rather than waiting on the usual acknowledgment window.
 
 To protect turnout for events already on the calendar, Pop-Ups should not be announced right before a scheduled event, which can cause event fatigue and thin out attendance. Where Pop-Ups become a regular thing, Briarmont staff may ask that they be coordinated and scheduled like any other event going forward.
 
-The stream is the one part of a Pop-Up that can't be sorted on the spot. Using a DJ still means a certified DJ and a booked stream block through the Stream Governance Group, the same as any event. If that can't be lined up in time, the Pop-Up can still go ahead without the stream.
+The stream is the one part of a Pop-Up that can't always be sorted on the spot. It still needs a certified DJ and a Stream Time Block request through the Stream Governance Group, just like any event, with the block locking once the Pop-Up is cleared. If that can't be lined up in time, the Pop-Up can still go ahead without the stream.
 
 ### Private and Group-Restricted Events
 
@@ -184,9 +199,9 @@ Briarmont staff may waive or raise these limits case-by-case in exceptional circ
 
 ## Setup and Teardown
 
-- Events should be set up no more than a week before the event date, and ideally as close to it as possible. Community Events may be granted longer setup windows with Briarmont staff approval.
+- Events should be set up no more than 48 hours before the event date, and ideally as close to it as possible. Community Events may be granted longer setup windows with Briarmont staff approval.
 - Builds and decor should be sized for the space, blended into the location, and grounded in the setting, in keeping with Briarmont's standard of grounded realism.
-- All event builds and decor should be removed within 24 hours after the event ends.
+- All event builds and decor should be removed within 12 hours after the event ends.
 - Where another event is scheduled in the same space, don't set up until the previous event's build has been removed, to conserve Land Impact.
 
 ### Event Rez Access
@@ -214,7 +229,7 @@ Certification is handled by the Stream Governance Group through its own process,
 Certified DJs are expected to:
 
 - Treat DJing as a privilege that supports the community, staying active and keeping in mind that Briarmont is a roleplay setting first.
-- Change a region's stream only when authorized to do so. Only Briarmont staff, Event Coordinators, and the certified DJ scheduled for an event should change a land stream.
+- Change a region's stream only when authorized to do so. Only Briarmont staff, Event Planners, and the certified DJ scheduled for an event should change a land stream.
 - Coordinate around other events. Check for anything ongoing or upcoming and clear it with the scheduled event DJ before putting in a stream.
 - Avoid swapping the stream during another event or scene that relies on its own audio without clearing it first.
 - Include DJ names in event requests, so the thread and schedule are clear about who is playing.
@@ -244,7 +259,7 @@ Strikes clear three months after the date of the violation. The Stream Governanc
 
 ### Stream Scheduling and Priority
 
-Booking a time block on the stream is coordinated through the Stream Governance Group's scheduling calendar, with the approved block recorded in the event thread.
+A certified DJ submits a Stream Time Block request to the Stream Governance Group for the event's time, and that pending request travels with the event thread as proof. Because the DJ is already certified, the request only ever waits on the event clearing, never on vetting. Once the event is scheduled, the Group approves and locks the block for that slot.
 
 - Community Events have priority for stream use during their event times. All other events yield stream access to a Community Event.
 - Scheduled events have priority for stream use during their event times.
