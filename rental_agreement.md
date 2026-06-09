@@ -16,13 +16,17 @@ Discord is not required in order to rent within Briarmont, though it may still b
 
 Residential rentals may have one primary tenant plus up to two subtenants, unless otherwise stated.
 
-Dorm rentals are limited to one renter only, with no subtenants permitted. Dorm leases are subject to a strict 100 LI limit unless explicitly adjusted by staff.
+PO Box-style rentals, including post office boxes and other meter-based access rentals, are limited to one renter only and do not permit subtenants unless explicitly stated otherwise.
+
+Dorm rentals are issued as PO Box-style rentals and are limited to one renter only, with no subtenants permitted. Dorm leases are subject to a strict 80 LI limit unless explicitly adjusted by staff.
 
 Staff reserve the right to determine occupancy limits for any rental space based on the intended use of the property.
 
 ## 2. Residential and Business Use
 
 Residential rentals are intended to function as private living spaces within the broader Briarmont environment.
+
+PO Box-style rentals are intended as limited-access support rentals. They may be used to maintain eligibility for rez rights, limited LI use, and related operational access as defined by staff, but they do not carry the same expectations, privileges, or occupancy flexibility as a full residential rental.
 
 Business rentals are limited, selectively approved, and subject to staff authorization. Approval is required before a business rental may be used for any public-facing commercial or roleplay purpose.
 
@@ -44,9 +48,13 @@ Staff may require adjustments where needed to preserve the broader appearance an
 
 LI limits are part of the rental agreement and are expected to be respected.
 
+Where supported by Briarmont's rental systems, tenants may submit LI adjustment requests directly through the rental meter. Submission of a request does not guarantee approval, and staff retain final discretion over all LI changes.
+
 If a tenant exceeds their agreed LI quota, Briarmont may make automatic adjustments to the effective rate or rental time associated with that property in order to account for the overage.
 
 Minor overages may be tolerated temporarily at staff discretion, but repeated, intentional, or egregious quota abuse may result in enforcement action, including the return of objects necessary to bring the rental back within its agreed limit.
+
+PO Box-style rentals may be managed differently from full residential rentals for ordinary return enforcement, but this does not create a guaranteed exemption from item return, LI limits, or staff direction.
 
 Briarmont staff have final discretion in determining when an overage is minor, excessive, or disruptive enough to require immediate action.
 
@@ -57,6 +65,8 @@ All rental payments are final.
 Briarmont does not offer refunds, transfers of rental time from one property to another, or replacement of one rental property with a different one after lease commencement.
 
 Leases apply only to the specific property rented and may not be exchanged, transferred, or converted to a different address.
+
+Where Briarmont's rental systems support it, upgrading from a PO Box-style rental to a full residential or business property may automatically cancel the smaller rental contract as part of the transition. This automatic cancellation does not create any refund, credit, or transfer entitlement unless staff explicitly state otherwise.
 
 Tenants are responsible for renewing their properties on time if they wish to retain them. Overdue rentals may be subject to reclaim procedures as outlined below.
 
