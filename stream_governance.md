@@ -85,25 +85,13 @@ The rules for booking:
 
 ### Stream Priority
 
-Where stream use conflicts, event priority decides who has access, in this order:
-
-1. **Community Events** have priority for stream use during their event times. All other events yield stream access to a Community Event.
-2. **Scheduled events** have priority for stream use during their event times.
-3. **Pop-Up events** must clear stream use with the Stream Governance Group before going ahead. A Pop-Up that can't line up a certified DJ and a booked block in time can still run without the stream.
-
-The stream is returned to its default after the event ends.
+Where stream use conflicts, event priority as defined in the Event Guidelines decides who has access.
 
 ---
 
 ## 5. Tip Jars and Attribution
 
-DJs keep their own earnings. How tips are handled differs slightly by certification type, but in both cases the performer's income is theirs.
-
-**Community DJs** use the Sim-provided attribution script in place of a separate jar. It keeps their tips flowing to them while handling Briarmont's attribution automatically, so there's nothing extra to set up.
-
-**External DJs** keep all of their tips through their own jar. The event simply needs a Sim-placed Briarmont tip jar set up alongside it, with every donation to that jar going to Briarmont. As a condition of performing, an external DJ agrees to promote the Briarmont jar equally with their own and to encourage guests to tip both.
-
-This keeps Briarmont supported without an external performer ever feeling the region is taking a cut of their earnings. Misusing attribution, removing the Briarmont jar, or misrepresenting the setup is a conduct issue handled through the strike system.
+Tip jar and attribution requirements for DJs are defined in the Event Guidelines.
 
 ---
 
@@ -120,6 +108,8 @@ Enforcement covers any breach of this document, including but not limited to:
 - Booking stream slots for other users, holding or squatting slots, or booking against an event that isn't real.
 - Breaching the content standards.
 - Misusing tip attribution or removing the Briarmont jar.
+
+Violations of associated guidelines, including the Event Guidelines and Community Covenant where they relate to stream use or DJ conduct, are also enforced under this system.
 
 ### The Strike Ladder
 
