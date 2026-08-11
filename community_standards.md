@@ -9,7 +9,7 @@ This guide covers the practical standards that support day-to-day life in Briarm
 ### Scope
 Briarmont is a community shaped by many kinds of people, stories, and lived experiences. Some narratives are warm, joyful, and restorative. Others are dark, difficult, cathartic, or unsettling. Both have a place here.
 
-This covenant exists to establish the shared expectations that allow those narratives to coexist. It is not intended to flatten storytelling into one acceptable tone, but to create a framework where a broad range of roleplay can thrive while preserving emotional safety, operational clarity, and compliance with Linden Lab's Terms of Service. These standards are meant to protect the community as a whole, and the space needed for many different kinds of stories to be told within it.
+This guide exists to establish the shared expectations that allow those narratives to coexist. It is not intended to flatten storytelling into one acceptable tone, but to create a framework where a broad range of roleplay can thrive while preserving emotional safety, operational clarity, and compliance with Linden Lab's Terms of Service. These standards are meant to protect the community as a whole, and the space needed for many different kinds of stories to be told within it.
 
 Some expectations are practical rather than behavioral. This guide lays those out clearly.
 
@@ -56,7 +56,7 @@ Linden Lab maintains a zero-tolerance policy regarding the sexualization or expl
 
 This prohibition applies to all forms of content, including but not limited to avatars, prim babies, Zooby children, scripted or non-scripted objects, textures, gestures, sounds, written or emoted depictions, and any other materials or conduct that fall within the scope of Linden Lab's Ageplay policy. Violations will result in immediate and permanent removal from the community without warning.
 
-For more information, refer to Linden Lab's official clarification on Ageplay: [Linden Lab's official clarification on Ageplay](https://wiki.secondlife.com/wiki/Linden_Lab_Official:Clarification_of_policy_disallowing_ageplay)
+For more information, refer to [Linden Lab's official clarification on Ageplay](https://wiki.secondlife.com/wiki/Linden_Lab_Official:Clarification_of_policy_disallowing_ageplay)
 
 ### Linden Lab Enforcement
 
@@ -194,4 +194,4 @@ Briarmont staff may interpret and apply this guide as needed to keep the setting
 
 Where something isn't explicitly covered here, Briarmont staff may issue direction as needed, and community members are expected to follow it.
 
-Briarmont provides designated ways to reach staff. Including in-world contact points, website forms, and official channels. Use those when you need help, clarification, or review of an operational issue.
+Briarmont provides designated ways to reach staff, including in-world contact points, the published contact addresses, and official community channels. Use those when you need help, clarification, or review of an operational issue.
