@@ -48,7 +48,7 @@ Storylines that involve sensitive themes, including prejudice, abuse, or interpe
 
 Threats, coercion, intimidation, and emotional manipulation directed at other community members are prohibited.
 
-Briarmont's moderation staff are experienced managing community conflicts and are skilled with distinguishing between storytelling and targeting. If a situation is ambiguous, our talented staff will evaluate it based on context, intent, and impact.
+Briarmont's moderation staff are experienced in managing community conflicts and skilled at distinguishing between storytelling and targeting. If a situation is ambiguous, staff will evaluate it based on context, intent, and impact.
 
 When conflict between characters escalates into conflict between players, Section 6 applies.
 
@@ -94,7 +94,7 @@ If a situation cannot be resolved informally, or if blocking does not end the un
 
 Reports should be made in good faith and include relevant information whenever possible. For the purposes of this covenant, **good faith** means the reporting community member sincerely believes a rule violation or harmful behavior has occurred, even if the report is ultimately not substantiated.
 
-False, malicious, or retaliatory reports -- such as knowingly fabricating incidents or attempting to weaponize the reporting process against another community member -- are not permitted.
+False, malicious, or retaliatory reports are not permitted. That includes knowingly fabricating incidents and attempting to weaponize the reporting process against another community member.
 
 Staff will make reasonable efforts to review reports and respond within an appropriate timeframe, though response times may vary depending on staff availability and the complexity of the situation.
 
