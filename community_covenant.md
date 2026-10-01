@@ -48,7 +48,7 @@ Storylines that involve sensitive themes, including prejudice, abuse, or interpe
 
 Threats, coercion, intimidation, and emotional manipulation directed at other community members are prohibited.
 
-Briarmont's moderation staff are experienced managing community conflicts and are skilled with distinguishing between storytelling and targeting. If a situation is ambiguous, our talented staff will evaluate it based on context, intent, and impact.
+Where a situation is ambiguous, staff evaluate it on the information available to them.
 
 When conflict between characters escalates into conflict between players, Section 6 applies.
 
@@ -116,7 +116,21 @@ Staff decisions are made in the interest of protecting the health, safety, and s
 
 ---
 
-## 8. Final Authority
+## 8. Conduct of Staff, Group Leads, and Administrators
+
+Briarmont staff, group leads, and administrators are held to the standards of conduct in this covenant, in full. Anyone holding a position in Briarmont represents the community and is held to these standards whether or not they are acting in that position.
+
+For the purposes of this covenant, a **group lead** is a community member appointed by the Briarmont administrators to lead a recognized Briarmont group. A group lead is not a moderator and does not decide matters under this covenant. A group's own membership, ranks, and certifications are not moderation actions.
+
+Hostility toward a community member, or toward another person holding a position, is not permitted. Continuing an exchange that has become hostile is not permitted. A position is not to be used as leverage in a disagreement, and is not to be used for in-character access, information, or story outcomes.
+
+Concerns about the conduct of anyone holding a position, including an administrator, are raised with the Briarmont administrators through the contact points described in the Community Standards Guide. These concerns are not raised with the person they are about.
+
+A staff role or a group lead role is held at the discretion of the Briarmont administrators and may be ended at any time. Ending one does not remove anyone from the community, or from a group as a member, and does not settle any question of conduct.
+
+---
+
+## 9. Final Authority
 
 This covenant establishes the standards for participation in Briarmont, but it cannot anticipate every possible situation.
 
