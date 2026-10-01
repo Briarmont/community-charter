@@ -48,7 +48,7 @@ Storylines that involve sensitive themes, including prejudice, abuse, or interpe
 
 Threats, coercion, intimidation, and emotional manipulation directed at other community members are prohibited.
 
-Briarmont's moderation staff are experienced managing community conflicts and are skilled with distinguishing between storytelling and targeting. If a situation is ambiguous, our talented staff will evaluate it based on context, intent, and impact.
+Where a situation is ambiguous, staff evaluate it on the information available to them.
 
 When conflict between characters escalates into conflict between players, Section 6 applies.
 
