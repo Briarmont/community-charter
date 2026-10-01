@@ -194,4 +194,4 @@ Briarmont staff may interpret and apply this guide as needed to keep the setting
 
 Where something isn't explicitly covered here, Briarmont staff may issue direction as needed, and community members are expected to follow it.
 
-Briarmont provides designated ways to reach staff, including in-world contact points, the published contact addresses, and official community channels. Use those when you need help, clarification, or review of an operational issue.
+Briarmont provides designated ways to reach staff. Including in-world contact points, website forms, and official channels. Use those when you need help, clarification, or review of an operational issue.
