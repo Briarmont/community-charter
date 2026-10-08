@@ -48,13 +48,13 @@ Briarmont staff have final say on whether an avatar, attachment, or overall pres
 
 ### Character Age Requirement
 
-All player-operated characters in Briarmont must be 18 years of age or older.
+All player-operated characters in Briarmont must be 18 years of age or older. Our regions are rated Adult, and Linden Lab does not allow child avatars in any Adult region, so nobody may wear one here. That includes a baby worn as your own avatar.
 
-Family-oriented storytelling is welcome and encouraged. Pregnancy storylines, prim babies, Zooby children, and other non-player-operated or non-avatar representations of children are permitted and supported in benign, non-exploitative contexts. This restriction applies specifically to player-operated avatars portraying characters under 18.
+Family-oriented storytelling is welcome and encouraged. Pregnancy storylines, prim or animesh babies, and other non-player-operated or non-avatar representations of children are permitted and supported in benign, non-exploitative contexts. The age requirement applies specifically to player-operated avatars portraying characters under 18. Keep prim and animesh babies, and any other object representing a child, out of any space or scene with sexual content or adult furniture.
 
 Linden Lab maintains a zero-tolerance policy regarding the sexualization or exploitation of minors and minor-coded content. Briarmont upholds this standard and likewise enforces a zero-tolerance policy on any content that depicts, promotes, references, implies, romanticizes, or otherwise involves the sexualization, exploitation, or abuse of minors or minor-coded representations in any form, including references, implications, or backstory.
 
-This prohibition applies to all forms of content, including but not limited to avatars, prim babies, Zooby children, scripted or non-scripted objects, textures, gestures, sounds, written or emoted depictions, and any other materials or conduct that fall within the scope of Linden Lab's Ageplay policy. Violations will result in immediate and permanent removal from the community without warning.
+This prohibition applies to all forms of content, including but not limited to avatars, prim or animesh babies, scripted or non-scripted objects, textures, gestures, sounds, written or emoted depictions, and any other materials or conduct that fall within the scope of Linden Lab's Ageplay policy. Violations will result in immediate and permanent removal from the community without warning.
 
 For more information, refer to [Linden Lab's official clarification on Ageplay](https://wiki.secondlife.com/wiki/Linden_Lab_Official:Clarification_of_policy_disallowing_ageplay)
 
@@ -68,7 +68,7 @@ Players with questions about whether a specific character concept or storyline i
 
 ## 3. Region Ratings and Public vs Private Standards
 
-All shared and public-facing spaces in Briarmont operate under a Moderate-compatible community standard.
+Briarmont's regions are rated Adult. Public-facing spaces are held to a stricter standard than private ones, as set out below.
 
 ### Public-Facing and Private Spaces
 
@@ -78,11 +78,18 @@ A space is public-facing if it is openly accessible, commonly shared, part of a 
 
 A space is private when it is not openly accessible to the general community and is not part of ordinary public roleplay flow. Private spaces include private property, rental units, and access-restricted shared spaces such as student dormitories, club or Greek houses, or other resident-controlled interiors.
 
-Private property is not treated the same as a public-facing space. However, all private spaces remain subject to Briarmont's zero-tolerance policies and any sitewide content restrictions.
+Private property is not treated the same as a public-facing space. However, every private space is still bound by the Community Covenant and this guide in full, including:
 
-In public-facing spaces, mature themes and realistic adult storytelling may occur, including crime, intoxication, conflict, police response, romantic tension, and non-graphic depictions of vice. Explicit sexual conduct, overtly erotic public performance, and similarly graphic or exploitative content are not allowed in public-facing or openly accessible spaces.
+- the zero-tolerance policy and the limits on objects representing children, in Section 2 of this guide
+- consent and the ban on sexual age-play, in Sections 2 and 4 of the Community Covenant
 
-Explicit sexual content and other highly graphic adult scenes must remain contained within private or access-restricted spaces and may not form part of ordinary public roleplay flow.
+In public-facing spaces, mature themes and realistic adult storytelling may occur, including conflict, drinking, police response, and romantic tension. Drug use, injury, and crime may be played openly. Nudity is permitted, and so is an erotic performance in a club, such as a strip show, as long as it involves no sex acts. Sex acts and other explicit or exploitative sexual content are not permitted in public-facing or openly accessible spaces.
+
+Being permitted under these standards does not make something legal in character. California law and the Briarmont Municipal Code apply in-world, and characters face in-character consequences for breaking them, including arrest.
+
+Graphic or gratuitous violence is not permitted in any space, public or private, as set out in Section 4 of the Community Covenant.
+
+Sex acts and explicit sexual content must remain contained within private or access-restricted spaces and may not form part of ordinary public roleplay flow.
 
 When in doubt, if a scene would normally be encountered by others, treat it as public-facing.
 

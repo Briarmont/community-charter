@@ -56,19 +56,19 @@ When conflict between characters escalates into conflict between players, Sectio
 
 ## 4. Community Standards
 
-Briarmont is intended to maintain a grounded and welcoming environment suitable for a broad community, including community members who participate in family-oriented roleplay. All player-operated characters must be 18 years of age or older, as outlined in the Community Standards Guide.
+Briarmont's regions are rated Adult. We still want the town to feel grounded and welcoming, including for members who take part in family-oriented roleplay. All player-operated characters must be 18 years of age or older, as outlined in the Community Standards Guide.
 
 Sexual age-play of any kind is strictly prohibited anywhere within the Briarmont community, including any Briarmont spaces, activities, or roleplay conducted under the Briarmont setting.
 
-Explicit sexual acts or graphic sexual content are not permitted in public-facing community spaces. Romantic and intimate storylines between adult characters are acceptable, but explicit scenes should occur privately.
+Sex acts and explicit sexual content are not permitted in public-facing community spaces. Romantic and intimate storylines between adult characters are acceptable, but sexual scenes take place in private.
 
 Private contexts refer to situations where participants have a reasonable expectation that the interaction is not visible to or imposed upon the broader community. Examples include inside private homes, enclosed rooms, private parcels, or direct/private conversations between participants. The determination of whether a scene is sufficiently private depends on its visibility and accessibility to others; spaces that are openly accessible, commonly shared, or part of public roleplay areas should be treated as public-facing for the purposes of this covenant.
 
 Graphic or gratuitous violence is not permitted. This includes explicit gore, mutilation, sexualized violence, prolonged cruelty, or the glorification or trivialization of real-world atrocities or hate crimes.
 
-Public depiction or promotion of illicit drug use is not permitted in public-facing community spaces. Storylines involving drugs may still be referenced or implied where appropriate to the setting, but should not be graphically or openly depicted in shared community areas.
+Section 3 of the Community Standards Guide sets out what may be played openly in public-facing spaces, including drug use and nudity, and what has to stay private. Promoting real-world illicit drug use is still not permitted in public-facing spaces.
 
-Public community spaces should remain appropriate for a general audience. Community members are expected to use reasonable judgment when portraying sensitive themes in shared areas of the town.
+Community members are expected to use reasonable judgment when portraying sensitive themes in shared areas of the town.
 
 ---
 
