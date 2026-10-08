@@ -85,6 +85,8 @@ Private property is not treated the same as a public-facing space. However, ever
 
 In public-facing spaces, mature themes and realistic adult storytelling may occur, including conflict, drinking, police response, and romantic tension. Drug use, injury, and crime may be played openly. Nudity is permitted, and so is an erotic performance in a club, such as a strip show, as long as it involves no sex acts. Sex acts and other explicit or exploitative sexual content are not permitted in public-facing or openly accessible spaces.
 
+Being permitted under these standards does not make something legal in character. California law and the Briarmont Municipal Code apply in-world, and characters face in-character consequences for breaking them, including arrest.
+
 Graphic or gratuitous violence is not permitted in any space, public or private, as set out in Section 4 of the Community Covenant.
 
 Sex acts and explicit sexual content must remain contained within private or access-restricted spaces and may not form part of ordinary public roleplay flow.
