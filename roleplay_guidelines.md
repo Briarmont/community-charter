@@ -150,7 +150,7 @@ Examples:
 
 Accepting consequences helps keep stories believable and engaging.
 
-Sensitive themes such as crime, addiction, or drug-related storylines can exist in Briarmont, but community members should use good judgment about where and how they are portrayed. In a Moderate community setting, these themes are generally better handled through implication, consequence, or private scenes rather than open depiction in shared public areas.
+Sensitive themes such as crime, addiction, or drug-related storylines can exist in Briarmont, but community members should use good judgment about where and how they are portrayed. Section 3 of the Community Standards Guide sets out what may be played openly in public-facing spaces and what stays private.
 
 ---
 

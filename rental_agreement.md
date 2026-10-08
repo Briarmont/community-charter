@@ -38,7 +38,7 @@ The sale of L$ goods or services through a Briarmont rental is not generally per
 
 Tenants are expected to decorate and maintain their rental spaces in a way that remains consistent with Briarmont's setting, operational standards, and broader community environment.
 
-All rentals are subject to their stated LI limits. Exterior-visible presentation should remain grounded, appropriate to the setting, and respectful of the family-compatible atmosphere expected in shared community areas where applicable.
+All rentals are subject to their stated LI limits. Exterior-visible presentation should remain grounded and appropriate to the setting. Anything in ordinary view from a shared community area is held to the public-facing standard in Section 3 of the Community Standards, so sexual content may not be on display there.
 
 Visible decor, lighting, landscaping, and exterior presentation may be reviewed by staff if they materially disrupt immersion, setting consistency, safety, or performance.
 

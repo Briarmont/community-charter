@@ -48,7 +48,7 @@ Certification carries an agreement about what's appropriate to play and say whil
 Certified DJs agree to:
 
 - **Keep content in step with the setting.** Briarmont runs on grounded realism, and stream content should suit a public community space rather than work against the tone of the region.
-- **Read the room and the rating.** Match the content, language, and themes to the audience and the event. What fits a late club night is not what fits a college mixer or an all-ages community gathering; the DJ is responsible for pitching it correctly.
+- **Read the room.** Match the content, language, and themes to the audience and the event. What fits a late club night is not what fits a college mixer or a farmers' market; the DJ is responsible for pitching it correctly.
 - **Avoid hateful, harassing, or targeted content.** Nothing that demeans or attacks community members or groups, on stream or over the mic.
 - **Carry attribution honestly.** Use the correct tip and attribution setup for their certification type (see Tip Jars and Attribution) and not misrepresent who is playing.
 
