@@ -60,7 +60,7 @@ Briarmont's regions are rated Adult. We still want the town to feel grounded and
 
 Sexual age-play of any kind is strictly prohibited anywhere within the Briarmont community, including any Briarmont spaces, activities, or roleplay conducted under the Briarmont setting.
 
-No sexual content, explicit or otherwise, is permitted in public-facing community spaces. Romantic and intimate storylines between adult characters are acceptable, but sexual scenes take place in private.
+Sex acts and explicit sexual content are not permitted in public-facing community spaces. Romantic and intimate storylines between adult characters are acceptable, but sexual scenes take place in private.
 
 Private contexts refer to situations where participants have a reasonable expectation that the interaction is not visible to or imposed upon the broader community. Examples include inside private homes, enclosed rooms, private parcels, or direct/private conversations between participants. The determination of whether a scene is sufficiently private depends on its visibility and accessibility to others; spaces that are openly accessible, commonly shared, or part of public roleplay areas should be treated as public-facing for the purposes of this covenant.
 

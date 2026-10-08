@@ -83,11 +83,11 @@ Private property is not treated the same as a public-facing space. However, ever
 - the zero-tolerance policy and the limits on objects representing children, in Section 2 of this guide
 - consent and the ban on sexual age-play, in Sections 2 and 4 of the Community Covenant
 
-In public-facing spaces, mature themes and realistic adult storytelling may occur, including conflict, drinking, police response, and romantic tension. Drug use, injury, and crime may be played openly when everyone in the scene agrees. Nudity is permitted. Sexual or exploitative content, including sex acts and overtly erotic performance, is not permitted in public-facing or openly accessible spaces.
+In public-facing spaces, mature themes and realistic adult storytelling may occur, including conflict, drinking, police response, and romantic tension. Drug use, injury, and crime may be played openly when everyone in the scene agrees. Nudity is permitted, and so is an erotic performance in a club, such as a strip show, as long as it involves no sex acts. Sex acts and other explicit or exploitative sexual content are not permitted in public-facing or openly accessible spaces.
 
 Graphic or gratuitous violence is not permitted in any space, public or private, as set out in Section 4 of the Community Covenant.
 
-Sexual content must remain contained within private or access-restricted spaces and may not form part of ordinary public roleplay flow.
+Sex acts and explicit sexual content must remain contained within private or access-restricted spaces and may not form part of ordinary public roleplay flow.
 
 When in doubt, if a scene would normally be encountered by others, treat it as public-facing.
 
